@@ -3,7 +3,9 @@
 }
     
 .links td {
-  box-sizing: border-box;
+  background-color: darkblue;
+  font-size: 20px;
+  padding: 100px 50px;
   margin: 3px;
   margin-color: black;
   height: 80px;
