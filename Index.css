@@ -3,6 +3,7 @@
 }
     
 .links td {
+  box-sizing: border-box;
   margin: 3px;
   margin-color: black;
   height: 80px;
