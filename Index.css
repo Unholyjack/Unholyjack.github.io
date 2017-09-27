@@ -9,7 +9,9 @@
     
 .links td {
   background-color: white;
-  position: right;
+  position: relative;
+  float: right;
+  clear: left;
   font-size: 30px;
   text-align: center;
   padding: 50px 25px;
@@ -19,7 +21,8 @@
     }
 
 .Nav_Bar {
-  position: left;
+  position: relative;
+  float: left;
   font-size: 20px;
   padding: 20px;
   height: 200px;
