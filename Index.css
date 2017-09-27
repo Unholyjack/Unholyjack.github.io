@@ -9,7 +9,7 @@
     
 .links td {
   background-color: white;
-  position: right;
+  position: center;
   font-size: 30px;
   text-align: center;
   padding: 50px 25px;
@@ -19,7 +19,7 @@
     }
 
 .Nav_Bar {
-  position: left;
+  position: center;
   font-size: 20px;
   padding: 20px;
   height: 200px;
