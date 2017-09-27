@@ -1,12 +1,11 @@
 .heading {
   color: red;
-  {
+}
     
-.links {
-  height: 40%;
-  left: 10%;
-  margin: 20px auto;
-  overflow-y: scroll;
-  position: static;
-  width: 80%;
+table {
+  margin: 2px;
+  margin-color: black;
+  height: 800px;
+  width: 200px;
     }
+  
