@@ -19,12 +19,16 @@
     }
 
 table {
-  height: 40%;
+  height: 25%;
   left: 10%;
   margin: 20px auto;
   overflow-y: scroll;
   position: static;
-  width: 80%;
+  width: 60%;
 }
 
+.Nav_bar {
+  position: center;
+  font-size: 20px;
+}
   
