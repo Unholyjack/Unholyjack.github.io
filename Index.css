@@ -1,4 +1,5 @@
 .heading {
+  background-color: black;
   color: red;
 }
 
@@ -7,13 +8,13 @@
 }
     
 .links td {
-  background-color: blue;
+  background-color: white;
   position: center;
   font-size: 30px;
   text-align: center;
-  padding: 250px 125px;
-  margin: 5px;
-  margin-color: black;
+  padding: 50px 25px;
+  border: 5px;
+  border-color: black;
   height: 100px;
   width: 25px;
     }
@@ -28,7 +29,7 @@ table {
 }
 
 .Nav_bar {
-  position: center;
+  position: relative;
   font-size: 20px;
 }
   
