@@ -8,10 +8,10 @@
     
 .links td {
   background-color: blue;
-  position: relative;
+  position: center;
   font-size: 30px;
-  text-align: centre;
-  padding: 100px 50px;
+  text-align: center;
+  padding: 500px 250px;
   margin: 5px;
   margin-color: black;
   height: 100px;
