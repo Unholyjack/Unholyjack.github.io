@@ -18,8 +18,11 @@
   width: 30px;
     }
 
-.Nav_bar {
+.Nav_Bar {
   position: left;
   font-size: 20px;
+  padding: 20px;
+  height: 200px;
+  width: 20px;
 }
 
