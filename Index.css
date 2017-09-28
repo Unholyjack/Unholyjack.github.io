@@ -16,6 +16,7 @@
     color: white;
     padding: 8px 16px;
     text-decoration: none;
+    border: 1px solid black;
 }
 
 /* Change the link color on hover */
@@ -37,6 +38,7 @@
     color: white;
     padding: 8px 16px;
     text-decoration: none;
+    border: 1px solid black;
 }
 
 /* Change the link color on hover */
