@@ -19,7 +19,7 @@ body {
 .sidebar ul {
     list-style-type: none;
     margin: 0;
-    padding: 50px 0px;
+    padding: 0;
     background-color: blue;
     position: fixed;
     left: 0;
@@ -30,7 +30,7 @@ body {
 .sidebar li a {
     display: block;
     color: white;
-    padding: 8px 16px;
+    padding: 0px 50px;
     text-decoration: none;
     border: 1px solid #111;
     padding: 0px 50px;
