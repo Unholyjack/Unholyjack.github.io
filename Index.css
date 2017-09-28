@@ -2,7 +2,7 @@
   background-color: black;
   color: white;
   position: fixed;
-  left: 15;
+  left: 15%;
 }
 
 .sidebar ul {
@@ -40,7 +40,7 @@
     position: fixed;
     bottom: 0;
     top: 0;
-    left: 15;
+    left: 15%;
     right: 0;
     width: 50%;
     height: 50%;
