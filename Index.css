@@ -46,6 +46,7 @@
     right: 0;
     width: 50%;
     height: 50%;
+    display: inline;
 }
 
 .links li a {
@@ -69,7 +70,6 @@
     padding: 20px;
     text-decoration: none;
     float: left;
-    display: inline;
 }
 
 .links_second li a {
@@ -79,7 +79,6 @@
     padding: 20px;
     text-decoration: none;
     float: center;
-    display: inline;
 }
 
 .links_third li a {
@@ -89,5 +88,4 @@
     padding: 20px;
     text-decoration: none;
     float: right;
-    display: inline;
 }
