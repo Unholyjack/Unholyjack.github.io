@@ -11,6 +11,11 @@ body {
   overflow: scroll;
 }
 
+.img {
+  width: 15%;
+  height: 20%;
+}
+
 .sidebar ul {
     list-style-type: none;
     margin: 0;
