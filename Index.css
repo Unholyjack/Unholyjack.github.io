@@ -7,6 +7,10 @@
   width: 100%;
 }
 
+body {
+  overflow: scroll;
+}
+
 .sidebar ul {
     list-style-type: none;
     margin: 0;
