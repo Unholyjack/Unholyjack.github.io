@@ -1,6 +1,6 @@
 .heading {
-  background-color: olivegreen;
-  color: black;
+  background-color: black;
+  color: white;
   position: fixed;
   left: 15%;
 }
@@ -36,16 +36,13 @@
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: Grey;
+    background-color: grey;
     text-color: black;
     border: 2px solid #000;
     position: fixed;
-    bottom: 25%;
-    top: 25%;
-    left: 30%;
-    right: 0;
-    width: 50%;
-    height: 50%;
+    left: 15%;
+    width: 75%;
+    height: 100%;
 }
 
 .links li a {
