@@ -19,7 +19,6 @@ body {
 
 .sidebar ul {
     list-style-type: none;
-    margin: 0;
     background-color: blue;
     position: fixed;
     left: 0;
@@ -37,7 +36,6 @@ body {
 .sidebar li a {
     display: block;
     color: white;
-    padding: 50px 0px;
     text-decoration: none;
     border: 1px solid #111;
     text-align: left;
@@ -71,6 +69,8 @@ body {
     border: 1px solid black;
     padding: 200px 100px;
     margin: 20px;
+    position: fixed;
+    left: 30%
 }
 
 .links li a:hover {
