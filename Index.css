@@ -9,6 +9,10 @@
     padding: 0;
     width: 200px;
     background-color: darkblue;
+    position: fixed;
+    left: 0;
+    width: 15%;
+    height: 100%   
 }
 
 .sidebar li a {
@@ -31,6 +35,13 @@
     padding: 0;
     width: 200px;
     background-color: yellow;
+    position: fixed;
+    bottom: 50;
+    top: 50;
+    left: 50;
+    right: 50;
+    width: 50%;
+    height: 50%;
 }
 
 .links li a {
