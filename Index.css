@@ -50,6 +50,7 @@
 
 .links li {
   float: left;
+  display: inline;
 }
 
 .links li a {
