@@ -46,7 +46,6 @@
     right: 0;
     width: 50%;
     height: 50%;
-    display: inline;
 }
 
 .links li a {
@@ -63,13 +62,16 @@
     color: black;
 }
 
+.links li {
+  float: left;
+}
+
 .links_first li a {
     display: block;
     color: white;
     text-align: center;
     padding: 20px;
     text-decoration: none;
-    float: left;
 }
 
 .links_second li a {
@@ -78,7 +80,6 @@
     text-align: center;
     padding: 20px;
     text-decoration: none;
-    float: center;
 }
 
 .links_third li a {
@@ -87,5 +88,4 @@
     text-align: right;
     padding: 20px;
     text-decoration: none;
-    float: right;
 }
