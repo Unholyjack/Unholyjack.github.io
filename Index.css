@@ -1,5 +1,5 @@
 .heading {
-  background-color: black;
+  background-color: blue;
   color: white;
   position: fixed;
   left: 0;
@@ -20,7 +20,6 @@ body {
     list-style-type: none;
     margin: 0;
     padding: 0px 50px;
-    width: 200px;
     background-color: blue;
     position: fixed;
     left: 0;
@@ -38,8 +37,8 @@ body {
 
 /* Change the link color on hover */
 .sidebar li a:hover {
-    background-color: grey
-    color: yellow;
+    background-color: grey;
+    color: white;
 }
 
 .links ul {
