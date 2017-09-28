@@ -10,7 +10,7 @@
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: darkblue;
+    background-color: blue;
     position: fixed;
     left: 0;
     width: 15%;
@@ -36,7 +36,7 @@
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: white;
+    background-color: Grey;
     text-color: black;
     border: 2px solid #000;
     position: fixed;
@@ -70,7 +70,7 @@
     display: block;
     color: white;
     text-align: center;
-    padding: 16px;
+    padding: 14px;
     text-decoration: none;
 }
 
@@ -78,7 +78,7 @@
     display: block;
     color: white;
     text-align: center;
-    padding: 16px;
+    padding: 14px;
     text-decoration: none;
 }
 
@@ -86,6 +86,6 @@
     display: block;
     color: white;
     text-align: center;
-    padding: 16px;
+    padding: 14px;
     text-decoration: none;
 }
