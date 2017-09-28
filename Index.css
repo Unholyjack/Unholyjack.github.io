@@ -1,5 +1,5 @@
 .heading {
-  background-color: blue;
+  background-color: black;
   color: white;
   position: fixed;
   left: 0;
@@ -19,7 +19,7 @@ body {
 .sidebar ul {
     list-style-type: none;
     margin: 0;
-    padding: 0px 50px;
+    padding: 50px 0px;
     background-color: blue;
     position: fixed;
     left: 0;
