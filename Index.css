@@ -1,5 +1,5 @@
 .heading {
-  background-color: black;
+  background-color: blue;
   color: white;
   position: fixed;
   left: 0;
@@ -31,14 +31,11 @@ body {
   border: 1px solid #111;
   font-size: 18px;
   text-align: left;
-  padding: 0px;
-  left: 0;
 }
     
 .sidebar li a {
     display: block;
     color: white;
-    padding: 0px;
     text-decoration: none;
     border: 1px solid #111;
 }
@@ -70,7 +67,7 @@ body {
     text-decoration: none;
     border: 1px solid black;
     padding: 200px 100px;
-    margin: 20px;
+    margin: 0px;
 }
 
 .links li a:hover {
@@ -81,28 +78,3 @@ body {
 .links li {
   float: left;
 }
-
-.links_first li a {
-    display: block;
-    color: white;
-    text-decoration: none;
-}
-
-.links_second li a {
-    display: block;
-    color: white;
-    text-decoration: none;
-}
-
-.links_third li a {
-    display: block;
-    color: white;
-    text-decoration: none;
-}
-
-.Disclaimers {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-}
- 
