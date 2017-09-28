@@ -1,6 +1,8 @@
 .heading {
   background-color: black;
   color: white;
+  position: fixed;
+  left: 15;
 }
 
 .sidebar ul {
