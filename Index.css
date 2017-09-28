@@ -3,7 +3,7 @@
   color: white;
 }
 
-ul {
+.sidebar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -11,7 +11,7 @@ ul {
     background-color: darkblue;
 }
 
-li a {
+.sidebar li a {
     display: block;
     color: white;
     padding: 8px 16px;
@@ -19,7 +19,28 @@ li a {
 }
 
 /* Change the link color on hover */
-li a:hover {
+.sidebar li a:hover {
     background-color: #555;
     color: yellow;
+}
+
+.links ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: yellow;
+}
+
+.links li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+.links li a:hover {
+    background-color: white;
+    color: black;
 }
