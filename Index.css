@@ -31,20 +31,18 @@ body {
   color: white;
   border: 1px solid #111;
   font-size: 18px;
-  text-align: center;
+  text-align: left;
 }
     
 .sidebar li a {
     display: block;
     color: white;
     padding: 50px 0px;
-    margin: 40px 0px;
     text-decoration: none;
     border: 1px solid #111;
-    text-align: center;
+    text-align: left;
 }
 
-/* Change the link color on hover */
 .sidebar li a:hover {
     background-color: grey;
     color: white;
