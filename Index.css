@@ -1,5 +1,5 @@
 .heading {
-  background-color: green;
+  background-color: black;
   color: white;
   position: fixed;
   left: 0;
@@ -53,7 +53,8 @@
     color: white;
     text-decoration: none;
     border: 1px solid black;
-    padding: 150px 75px;
+    padding: 200px 100px;
+    margin: 20px;
 }
 
 .links li a:hover {
@@ -62,7 +63,7 @@
 }
 
 .links li {
-  float: center;
+  float: left;
 }
 
 .links_first li a {
