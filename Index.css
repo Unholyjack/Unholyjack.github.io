@@ -30,10 +30,10 @@ body {
 
 .sidebar li {
   color: white;
-  padding: 20px 0px;
+  padding: 20px 10px;
   border: 1px solid #111;
   font-size: 18px;
-  text-align: center;
+  text-align: left;
 }
     
 .sidebar li a {
