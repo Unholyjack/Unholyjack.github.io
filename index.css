@@ -6,58 +6,64 @@ body {
   background-color: Red;
   width: 100%;
   height: 100px;
-  position: fixed;
+  position: relative;
   top: 0;
   border: 2px solid black;
   padding: 1px;
+  left: 0;
 }
 
 .drop_down_bar {
   background-color = Grey;
   width: 100%;
   height: 50px;
-  position: fixed;
+  position: relative;
   top: 100px;
   border: 2px solid black;
   padding: 1px;
+  left: 0;
 }
 
 .domestic {
   background-color = Silver;
   width = 100%;
   height = 350px;
-  position = fixed;
+  position = relative;
   top = 150px;
   border = 2px solid black;
   padding: 1px;
+  left: 0;
 }
 
 .international {
   background-color: Aqua;
   width: 100%;
   height: 350px;
-  position: fixed;
+  position: relative;
   top: 500px;
   border: 2px solid black;
   padding: 1px;
+  left: 0;
 }
 
 .second_search {
   background-color: Purple;
   width: 100%;
   height: 50px;
-  position: fixed;
+  position: relative;
   top: 850px;
   border: 2px solid black;
   padding: 1px;
+  left: 0;
 }
 
 .footer {
   background-color: Fuchsia;
   width: 100%;
   height: 100px;
-  position: fixed;
+  position: relative;
   top: 900px;
   border: 2px solid black;
   padding: 1px;
+  left: 0;
 }
