@@ -1,3 +1,7 @@
+.body {
+    overflow-y: scroll;
+}
+
 .heading {
   background-color: Red;
   color: white;
@@ -7,7 +11,6 @@
   top: 0;
   border: 2px solid black;
   left: 0;
-  overflow-y: scroll;
 }
 
 .drop_down_bar {
@@ -18,7 +21,6 @@
   position: fixed;
   top: 100px;
   left: 0;
-  overflow-y: scroll;
 }
 
 .domestic {
@@ -29,7 +31,6 @@
   position: fixed;
   top: 150px;
   left: 0;
-  overflow-y: scroll;
 }
 
 .international {
@@ -40,7 +41,6 @@
   position: fixed;
   top: 650px;
   left: 0;
-  overflow-y: scroll;
 }
 
 .second_search {
@@ -51,7 +51,6 @@
   position: fixed;
   top: 1150px;
   left: 0;
-  overflow-y: scroll;
 }
 
 .footer {
@@ -62,5 +61,4 @@
   position: fixed;
   top: 1200px;
   left: 0;
-  overflow-y: scroll;
 }
