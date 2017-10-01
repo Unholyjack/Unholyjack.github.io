@@ -2,50 +2,56 @@
   overflow-y = scroll;
 }
 
-.heading {
+.heading p {
   background-color = blue;
   width = 100%;
   height = 15%;
   position = fixed;
   top = 0;
+  border = 2px solid black;
 }
 
-.drop_down_bar {
+.drop_down_bar p {
   background-color = yellow;
   width = 100%;
   height = 5%;
   position = fixed;
   top = 15;
+  border = 2px solid black;
 }
 
-.domestic {
+.domestic p {
   background-color = green;
   width = 100%;
   height = 40%;
   position = fixed;
   top = 20;
+  border = 2px solid black;
 }
 
-.international {
+.international p {
   background-color = orange;
   width = 100%;
   height = 40%;
   position = fixed;
   top = 60;
+  border = 2px solid black;
 }
 
-.second_search {
+.second_search p {
   background-color = purple;
   width = 100%;
   height = 5%;
   position = fixed;
   top = 100;
+  border = 2px solid black;
 }
 
-.footer {
+.footer p {
   background-color = pink;
   width = 100%;
   height = 10%;
   position = fixed;
   bottom = 0;
+  border = 2px solid black;
 }
