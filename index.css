@@ -1,4 +1,4 @@
-.body {
+body {
   overflow-y: scroll;
 }
 
@@ -9,6 +9,7 @@
   position: fixed;
   top: 0;
   border: 2px solid black;
+  padding: 1px;
 }
 
 .drop_down_bar {
@@ -18,6 +19,7 @@
   position: fixed;
   top: 100px;
   border: 2px solid black;
+  padding: 1px;
 }
 
 .domestic {
@@ -27,6 +29,7 @@
   position = fixed;
   top = 150px;
   border = 2px solid black;
+  padding: 1px;
 }
 
 .international {
@@ -36,6 +39,7 @@
   position: fixed;
   top: 500px;
   border: 2px solid black;
+  padding: 1px;
 }
 
 .second_search {
@@ -45,6 +49,7 @@
   position: fixed;
   top: 850px;
   border: 2px solid black;
+  padding: 1px;
 }
 
 .footer {
@@ -54,4 +59,5 @@
   position: fixed;
   top: 900px;
   border: 2px solid black;
+  padding: 1px;
 }
