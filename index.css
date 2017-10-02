@@ -1,7 +1,7 @@
 body {
     overflow-y: scroll;
     left: 0;
-    position: absolute;
+    position: fixed;
     padding: 0;
 }
 
