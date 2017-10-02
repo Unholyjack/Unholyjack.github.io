@@ -11,6 +11,7 @@ body {
   height: 175px;
   top: 0;
   position: absolute;
+  text-align: center;
 }
 
 .drop_down_bar {
@@ -20,6 +21,7 @@ body {
   height: 30px;
   top: 175px;
   position: absolute;
+  text-align: center;
 }
 
 .domestic {
@@ -29,6 +31,7 @@ body {
   height: 750px;
   top: 205px;
   position: absolute;
+  text-align: center;
 }
 
 .international {
@@ -38,6 +41,7 @@ body {
   height: 750px;
   top: 955px;
   position: absolute;
+  text-align: center;
 }
 
 .second_search {
@@ -47,6 +51,7 @@ body {
   height: 30px;
   top: 1705px;
   position: absolute;
+  text-align: center;
 }
 
 .footer {
@@ -56,4 +61,5 @@ body {
   height: 175px;
   top: 1735px;
   position: absolute;
+  text-align: center;
 }
