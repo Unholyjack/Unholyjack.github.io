@@ -87,7 +87,7 @@ body {
     background-color: white;
 }
 
-.domestic h1 {
+.domestich1 {
     position: absolute;
     text-align: center;
     font-weight: bold;
@@ -97,7 +97,7 @@ body {
     left: 50%;
 }
 
-.international h1 {
+.internationalh1 {
     position: absolute;
     text-align: center;
     font-weight: bold;
