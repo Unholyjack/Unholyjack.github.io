@@ -87,25 +87,30 @@ body {
     background-color: white;
 }
 
-.domestic h1 {
-    background-image class="img" src="http://library.unimelb.edu.au/__data/assets/image/0011/2045774/aust-st-l.gif" alt="Map of Australia"
+.domestic {
+    position: absolute;
     text-align: center;
     font-weight: bold;
-    font-family: arial;
+    font-family: Arial;
     font-size: 42px;
     color: black;
+    left: 50%;
+    top: 835px;
 }
 
 .international h1 {
-    background-image class="img" src="https://i.pinimg.com/originals/21/c1/0b/21c10bed7cbe3f57b5f55104e62c9c4b.jpg" alt="World Map"
+    position: absolute;
     text-align: center;
     font-weight: bold;
-    font-family: arial;
+    font-family: Arial;
     font-size: 42px;
     color: black;
+    left: 50%;
+    top: 2085px;
 }
 
 .img {
+    position: absolute;
     opacity: 0.2;
     float: left;
     width 100%;
