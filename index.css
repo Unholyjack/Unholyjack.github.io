@@ -67,14 +67,14 @@ body {
 
 .drop_down_bar li {
     float: left;
+    padding: 0px 50px;
+    border: 2px solid black;
 }
 
 .drop_down_bar li a {
     display: block;
     color: white;
-    text-align: center;
-    margin: 0px 50px;
-    border: 2px solid black;
+    text-align: center
     text-decoration: none;
 }
 
