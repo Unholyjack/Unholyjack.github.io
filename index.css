@@ -24,7 +24,6 @@ body {
 
 .domestic {
   background-color: skyblue;
-  color: white;
   width: 100%;
   height: 1250px;
   top: 210px;
@@ -35,7 +34,6 @@ body {
 
 .international {
   background-color: Aqua;
-  color: white;
   width: 100%;
   height: 1250px;
   top: 1460px;
@@ -95,6 +93,7 @@ body {
     font-weight: bold;
     font-family: arial;
     font-size: 42px;
+    color: black;
 }
 
 .international h1 {
@@ -103,6 +102,7 @@ body {
     font-weight: bold;
     font-family: arial;
     font-size: 42px;
+    color: black;
 }
 
 .img {
