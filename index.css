@@ -17,6 +17,7 @@ body {
 .drop_down_bar {
   width: 100%;
   top: 175px;
+  height: 45px;
   position: absolute;
   text-align: center;
   color: black;
@@ -61,7 +62,7 @@ body {
     margin: 1px;
     overflow: hidden;
     background-color: silver;
-    height: 35px;
+    height: 27px;
 }
 
 .drop_down_bar li {
@@ -72,7 +73,7 @@ body {
     display: block;
     color: white;
     text-align: center;
-    padding: 0px 50px;
+    margin: 0px 50px;
     border: 2px solid black;
     text-decoration: none;
 }
