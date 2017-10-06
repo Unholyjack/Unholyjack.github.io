@@ -82,39 +82,6 @@ body {
     background-color: white;
 }
 
-.domestich1 {
-    position: absolute;
-    text-align: right;
-    font-weight: bold;
-    font-family: Arial;
-    font-size: 42px;
-    color: black;
-    left: 75%;
-    top: 525px;
-}
-
-.internationalh1 {
-    position: absolute;
-    text-align: right;
-    font-weight: bold;
-    font-family: Arial;
-    font-size: 42px;
-    color: black;
-    left: 50%;
-    top: 1775px;
-}
-
-.img1 {
-    position: absolute;
+.img {
     opacity: 0.2;
-    float: left;
-    top: 210px;
 }
-
-.img2 {
-    position: absolute;
-    opacity: 0.2;
-    float: left;
-    top: 1460px;
-}
-
