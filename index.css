@@ -15,7 +15,6 @@ body {
 }
 
 .drop_down_bar {
-  background-color: Grey;
   color: white;
   width: 100%;
   height: 35px;
@@ -71,4 +70,28 @@ body {
     float: left;
     width 100%;
     height: 1250px;
+}
+
+.drop_down_bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: silver;
+}
+
+.drop_down_bar li {
+    float: left;
+}
+
+.drop_down_bar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.drop_down_bar li a:hover {
+    background-color: white;
 }
