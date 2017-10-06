@@ -99,13 +99,23 @@ body {
     font-family: Arial;
     font-size: 42px;
     color: black;
-    left: 75%;
+    left: 50%;
     top: 1775px;
 }
 
-.img {
+.img1 {
     position: absolute;
     opacity: 0.2;
     float: left;
-    left: 0%;
+    height: 1250px;
+    top: 210px;
 }
+
+.img2 {
+    position: absolute;
+    opacity: 0.2;
+    float: left;
+    height: 1250px;
+    top: 1460px;
+}
+
