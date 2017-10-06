@@ -71,6 +71,8 @@ body {
     float: left;
     padding: 0px 50px;
     border: 2px solid black;
+    height: 45px;
+    width: 20%;
 }
 
 .drop_down_bar li a {
