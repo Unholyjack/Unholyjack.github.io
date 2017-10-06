@@ -87,7 +87,7 @@ body {
     background-color: white;
 }
 
-.domestic {
+.domestic h1 {
     position: absolute;
     text-align: center;
     font-weight: bold;
