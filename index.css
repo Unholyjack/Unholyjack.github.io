@@ -63,14 +63,11 @@ body {
     list-style-type: none;
     overflow: hidden;
     background-color: silver;
-    align: center;
 }
 
 .drop_down_bar li {
     float: left;
     border: 2px solid black;
-    height: 45px;
-    width: 100px;
 }
 
 .drop_down_bar li a {
@@ -82,8 +79,6 @@ body {
 
 .drop_down_bar li a:hover {
     background-color: white;
-    height: 45px;
-    width: 100px;
 }
 
 .img {
