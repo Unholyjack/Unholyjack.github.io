@@ -64,15 +64,13 @@ body {
     margin: 1px;
     overflow: hidden;
     background-color: silver;
-    height: 27px;
+    height: 45px;
 }
 
 .drop_down_bar li {
     float: left;
     padding: 0px 50px;
     border: 2px solid black;
-    height: 45px;
-    width: 20%;
 }
 
 .drop_down_bar li a {
