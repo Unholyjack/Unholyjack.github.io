@@ -72,6 +72,7 @@ body {
     padding: 0px 75px;
     border: 2px solid black;
     height: 45px;
+    width: 100px;
 }
 
 .drop_down_bar li a {
@@ -83,6 +84,8 @@ body {
 
 .drop_down_bar li a:hover {
     background-color: white;
+    height: 45px;
+    width: 100px;
 }
 
 .img {
