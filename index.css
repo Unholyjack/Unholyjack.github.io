@@ -69,8 +69,9 @@ body {
 
 .drop_down_bar li {
     float: left;
-    padding: 0px 50px;
+    padding: 0px 75px;
     border: 2px solid black;
+    height: 45px;
 }
 
 .drop_down_bar li a {
