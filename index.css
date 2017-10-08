@@ -71,7 +71,7 @@ ul {
 }
 
 li {
-    float: center;
+    float: left;
     border: 2px solid black;
 }
 
