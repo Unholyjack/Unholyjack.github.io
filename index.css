@@ -14,13 +14,13 @@ body {
 }
 
 .drop_down_bar {
-  background-color: grey;
+  background-color: lightgrey;
   width: 100%;
   top: 175px;
   height: 45px;
   position: absolute;
   text-align: center;
-  color: black;
+  color: white;
   left: 0;
 }
 
@@ -81,6 +81,7 @@ li {
 }
 
 li a {
+    background-color: black;
     display: inline;
     color: white;
     text-align: center;
