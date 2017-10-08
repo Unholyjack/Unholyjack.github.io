@@ -63,6 +63,8 @@ body {
     list-style-type: none;
     overflow: hidden;
     background-color: silver;
+    height: 45px;
+    width: 100%;
 }
 
 .drop_down_bar li {
