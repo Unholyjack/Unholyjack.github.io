@@ -5,7 +5,7 @@ body {
 }
 
 .heading {
-  background-color: Grey;
+  background-color: Black;
   color: white;
   width: 100%;
   height: 175px;
@@ -59,28 +59,28 @@ body {
   text-align: center;
 }
 
-.drop_down_bar ul {
+ul {
     list-style-type: none;
     overflow: hidden;
     background-color: silver;
-    height: 45px;
-    width: 100%;
+}
+
+li {
+    float: left;
+    border: 2px solid black;
+    height:45px;
+    width: 20%;
     top: 175px;
 }
 
-.drop_down_bar li {
-    float: left;
-    border: 2px solid black;
-}
-
-.drop_down_bar li a {
+li a {
     display: block;
     color: white;
     text-align: center
     text-decoration: none;
 }
 
-.drop_down_bar li a:hover {
+li a:hover {
     background-color: white;
 }
 
