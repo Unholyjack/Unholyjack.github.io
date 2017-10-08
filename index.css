@@ -1,7 +1,5 @@
 body {
     overflow-y: scroll;
-    left: 0;
-    padding: 0;
 }
 
 .heading {
@@ -69,7 +67,7 @@ li {
     float: left;
     border: 2px solid black;
     height:45px;
-    width: 20%;
+    width: 90px;
     top: 175px;
 }
 
