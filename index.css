@@ -78,14 +78,12 @@ ul {
 
 li {
     float: left;
+    padding: 20px 40px;
 }
 
 li a {
-    background-color: black;
     display: inline;
-    color: white;
     text-align: center;
-    padding: 20px 40px;
     text-decoration: none;
 }
 
@@ -93,6 +91,7 @@ li a {
 li a:hover {
     background-color: white;
     color: black;
+    padding: 20px 40px;
 }
 
 .dropdown {
