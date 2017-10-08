@@ -79,8 +79,9 @@ ul {
 li {
     float: left;
     top: 175px;
-    max-height: 45px;
-    border: 2px solid black;
+    min-height: 43px;
+    min-width:90px;
+    border: 1px solid black;
 }
 
 li a {
@@ -94,7 +95,6 @@ li a:hover {
     display: block;
     background-color: white;
     color: black;
-    padding: 0px 40px;
 }
 
 .dropdown {
@@ -107,17 +107,20 @@ li a:hover {
     position: absolute;
     background-color: white;
     min-width: 160px;
+    min-height:43px
     z-index: 1;
-    border: 2px solid black;
+    border: 1px solid black;
 }
 
 .dropdown-content li {
     color: black;
     background-color: white;
-    border: 0;
+    border: 1px solid black;
     font-weight: italic;
 }
 
 .dropdown:hover .dropdown-content {
     display: block;
+    background-color: grey;
+    color: white;
 }
