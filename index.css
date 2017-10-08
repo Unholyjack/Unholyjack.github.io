@@ -87,6 +87,8 @@ li a {
 
 li a:hover {
     background-color: white;
+    height: 45px;
+    width: 90px;
 }
 
 .img {
