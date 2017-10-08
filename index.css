@@ -78,6 +78,7 @@ ul {
 
 li {
     float: left;
+    top: 175px;
     padding: 20px 40px;
 }
 
@@ -89,9 +90,7 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: white;
     color: black;
-    padding: 20px 40px;
 }
 
 .dropdown {
