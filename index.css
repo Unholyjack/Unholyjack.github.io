@@ -69,8 +69,8 @@ body {
 
 ul {
     list-style-type: none;
-    margin: 10px 20px;
-    padding: 10px 20px;
+    margin: 0;
+    padding: 0;
     border: 2px solid black;
     overflow: hidden;
     background-color: green;
@@ -93,6 +93,7 @@ li a {
 li a:hover {
     background-color: white;
     color: black;
+    padding: 20px 40px;
 }
 
 .dropdown {
