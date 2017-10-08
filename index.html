@@ -16,7 +16,8 @@
         <a href="/test_3"><li>Place Holder</li></a>
         <a href="/test_4"><li>Place Holder</li></a>
         <a href="/test_5"><li>Place Holder</li></a>
-        <li class="search"> <script>
+        <li class="search"> 
+ <script>
 function showResult(str) {
   if (str.length==0) { 
     document.getElementById("livesearch").innerHTML="";
@@ -39,8 +40,6 @@ function showResult(str) {
   xmlhttp.send();
 }
 </script>
-</head>
-<body>
 
 <form>
 <input type="text" size="30" onkeyup="showResult(this.value)">
