@@ -16,7 +16,7 @@ body {
 .drop_down_bar {
   background-color: grey;
   width: 100%;
-  top: 150px;
+  top: 175px;
   height: 45px;
   position: absolute;
   text-align: center;
@@ -70,8 +70,8 @@ body {
 
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 10px 20px;
+    padding: 10px 20px;
     overflow: hidden;
     background-color: #333;
 }
