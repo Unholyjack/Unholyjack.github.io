@@ -10,6 +10,7 @@ body {
   top: 0;
   position: absolute;
   text-align: center;
+  left: 0;
 }
 
 .drop_down_bar {
@@ -19,6 +20,7 @@ body {
   position: absolute;
   text-align: center;
   color: black;
+  left: 0;
 }
 
 .domestic {
@@ -27,6 +29,7 @@ body {
   height: 1250px;
   top: 210px;
   position: absolute;
+  left: 0;
 }
 
 .international {
@@ -35,6 +38,7 @@ body {
   height: 1250px;
   top: 1460px;
   position: absolute;
+  left: 0;
 }
 
 .second_search {
@@ -45,6 +49,7 @@ body {
   top: 2710px;
   position: absolute;
   text-align: center;
+  left: 0;
 }
 
 .footer {
@@ -55,12 +60,14 @@ body {
   top: 2740px;
   position: absolute;
   text-align: center;
+  left: 0;
 }
 
 ul {
     list-style-type: none;
     overflow: hidden;
     background-color: silver;
+    left: 0;
 }
 
 li {
