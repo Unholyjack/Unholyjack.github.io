@@ -116,11 +116,11 @@ li a:hover {
     background-color: white;
     border: 1px solid black;
     font-weight: italic;
-    display: inline-block;
+    display: inline;
 }
 
 .dropdown:hover .dropdown-content {
     display: block;
-    background-color: grey;
+    background-color: black;
     color: white;
 }
