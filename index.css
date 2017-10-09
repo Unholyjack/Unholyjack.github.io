@@ -85,7 +85,7 @@ li {
 }
 
 li a {
-    display: inline;
+    display:inline-block;
     text-align: center;
     text-decoration: none;
 }
@@ -106,9 +106,8 @@ li a:hover {
     display: none;
     position: absolute;
     background-color: white;
-    min-width: 160px;
+    max-width: 160px;
     min-height:43px
-    z-index: 1;
     border: 1px solid black;
 }
 
@@ -117,6 +116,7 @@ li a:hover {
     background-color: white;
     border: 1px solid black;
     font-weight: italic;
+    display: inline-block;
 }
 
 .dropdown:hover .dropdown-content {
