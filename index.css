@@ -85,7 +85,7 @@ li {
 }
 
 li a {
-    display:inline-block;
+    display:inline;
     text-align: center;
     text-decoration: none;
 }
@@ -99,15 +99,15 @@ li a:hover {
 
 .dropdown {
     position: absolute;
-    display: inline-block;
+    display: inline;
 }
 
 .dropdown-content {
     display: none;
     position: absolute;
     background-color: white;
-    max-width: 160px;
-    min-height:43px
+    width: 160px;
+    height:43px
     border: 1px solid black;
 }
 
