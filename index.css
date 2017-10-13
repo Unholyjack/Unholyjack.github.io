@@ -8,6 +8,7 @@ body {
     top: 0;
     position: absolute;
     background-color: white;
+    width: 100%;
 }
 
 .drop_down_bar {
@@ -15,6 +16,7 @@ body {
     top: 125px;
     position: absolute;
     background-color: gold;
+    width: 100%;
 }
 
 .domestic {
@@ -32,11 +34,13 @@ body {
     top: 2155px;
     position: absolute;
     background-color: black;
+    width: 100%;
 }
 
 .footer {
     top: 2185px;
     height: 120px;
     background-color: silver;
+    width: 100%;
 }
 
