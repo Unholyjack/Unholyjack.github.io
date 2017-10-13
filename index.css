@@ -1,23 +1,43 @@
 body {
     overflow-y: scroll;
+    left: 0;
 }
 
 .heading {
+    height: 125px;
+    top: 0;
+    position: absolute;
+    background-color: white;
 }
 
 .drop_down_bar {
+    height: 30px;
+    top: 125px;
+    position: absolute;
+    background-color: gold;
 }
 
 .domestic {
+    top: 155px;
+    position: absolute;
 }
 
 .international {
+    top: 1155px;
+    position: absolute;
 }
 
 .second_search {
+    height: 30px;
+    top: 2155px;
+    position: absolute;
+    background-color: black;
 }
 
 .footer {
+    top: 2185px;
+    height: 120px;
+    background-color: silver;
 }
 
 .img {
