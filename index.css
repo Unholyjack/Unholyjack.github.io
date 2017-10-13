@@ -11,12 +11,24 @@ body {
     width: 100%;
 }
 
-.drop_down_bar {
+.Nav-bar {
     height: 30px;
     top: 125px;
     position: absolute;
     background-color: gold;
     width: 100%;
+}
+
+.Nav-bar ul {
+    display: inline;
+    float: left;
+}
+
+.Nav-bar li {
+    width: 40px;
+    padding: 0px 20px;
+    background-color: white;
+    color: black;
 }
 
 .domestic {
@@ -25,22 +37,33 @@ body {
 }
 
 .international {
-    top: 1155px;
+    top: 905px;
     position: absolute;
 }
 
 .second_search {
     height: 30px;
-    top: 2155px;
+    top: 1655px;
     position: absolute;
     background-color: black;
     width: 100%;
 }
 
 .footer {
-    top: 2185px;
+    top: 1685px;
     height: 120px;
     background-color: silver;
     width: 100%;
 }
 
+.img {
+    height: 750px;
+    width: 100%;
+    float: left;
+}
+
+.Logo {
+    height: 125;
+    width: 10%;
+    float: left;
+}
