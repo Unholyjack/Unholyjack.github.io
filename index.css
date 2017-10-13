@@ -66,6 +66,7 @@ body {
     height: 120px;
     background-color: silver;
     width: 100%;
+    position: absolute;
 }
 
 .img {
