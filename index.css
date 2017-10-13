@@ -62,6 +62,7 @@ body {
     text-decoration: none;
     display: block;
     text-align: left;
+    z-index: 0.5;
 }
 
 .dropdown-content a:hover {
