@@ -66,7 +66,7 @@ body {
 }
 
 .dropdown-content a:hover {
-    background-color: #f1f1f1
+    background-color: gold;
 }
 
 .dropdown:hover .dropdown-content {
@@ -76,7 +76,7 @@ body {
     
 .domestic {
     top: 155px;
-    position: absolute;
+    position: relative;
 }
 
     
@@ -107,7 +107,7 @@ body {
 }
 
 .footer p {
-    float: right;
+    float: center;
 }
 
 .footer ul {
