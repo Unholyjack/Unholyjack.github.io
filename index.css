@@ -6,7 +6,7 @@ body {
 .heading {
     height: 125px;
     top: 0;
-    position: relative;
+    position: absolute;
     background-color: white;
     width: 100%;
 }
@@ -15,7 +15,7 @@ body {
 .Nav-bar {
     height: 30px;
     top: 125px;
-    position: relative;
+    position: absolute;
     background-color: gold;
     width: 100%;
 }
@@ -34,14 +34,14 @@ body {
 
 .Nav-bar li a, .dropbtn {
     display: inline-block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 .Nav-bar li a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
+    background-color: gold;
 }
 
 .Nav-bar li.dropdown {
@@ -91,7 +91,7 @@ body {
 .second_search {
     height: 30px;
     top: 2155px;
-    position: relative;
+    position: absolute;
     background-color: black;
     width: 100%;
 }
@@ -103,7 +103,7 @@ body {
     height: 120px;
     background-color: silver;
     width: 100%;
-    position: relative;
+    position: absolute;
 }
 
 .footer p {
