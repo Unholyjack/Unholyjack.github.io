@@ -43,34 +43,59 @@ body {
     color: white;
 }
 
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+
 .domestic {
     top: 155px;
     position: absolute;
 }
 
 .international {
-    top: 905px;
+    top: 1155px;
     position: absolute;
 }
 
 .second_search {
     height: 30px;
-    top: 1655px;
+    top: 2155px;
     position: absolute;
     background-color: black;
     width: 100%;
 }
 
 .footer {
-    top: 1685px;
+    top: 2185px;
     height: 120px;
     background-color: silver;
     width: 100%;
     position: absolute;
 }
 
+.footer p {
+    float: right;
+}
+
+.footer ul {
+    float: left;
+}
 .img {
-    height: 750px;
+    height: 1000px;
     width: 100%;
     float: left;
 }
