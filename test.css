@@ -1,5 +1,6 @@
 body {
     overflow-y: scroll;
+    overflow-x: hidden;
     left: 0;
 }
 
@@ -91,11 +92,14 @@ body {
     height: 30px;
     top: 2167px;
     position: absolute;
-    background-color: black;
+    background-color: gold;
     width: 100%;
 }
 
-    
+.second_search p {
+    left: 50%;
+    padding: 0px 40px;
+}
     
 .footer {
     top: 2197px;
@@ -106,11 +110,11 @@ body {
 }
 
 .footer p {
-    float: right;
+    left: 75%;
 }
 
 .footer ul {
-    float: left;
+    left: 50%;
 }
     
     
