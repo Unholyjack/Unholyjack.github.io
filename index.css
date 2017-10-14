@@ -1,11 +1,13 @@
 body {
     overflow-y: scroll;
+    overflow-x: hidden;
+    left: 0px;
 }
 
 
 .heading {
-    height: 125px;
-    top: 0;
+    height: 120px;
+    top: 0px;
     position: absolute;
     background-color: white;
     width: 100%;
@@ -14,13 +16,14 @@ body {
 
 .Nav-bar {
     height: 30px;
-    top: 125px;
+    top: 120px;
     position: absolute;
     background-color: gold;
     width: 100%;
+    text-align: center;
 }
 
-ul {
+.Nav-bar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -28,11 +31,11 @@ ul {
     background-color: #333;
 }
 
-li {
+.Nav-bar li {
     float: left;
 }
 
-li a, .dropbtn {
+.Nav-bar li a, .dropbtn {
     display: inline-block;
     color: white;
     text-align: center;
@@ -40,15 +43,15 @@ li a, .dropbtn {
     text-decoration: none;
 }
 
-li a:hover, .dropdown:hover .dropbtn {
+.Nav-bar li a:hover, .dropdown:hover .dropbtn {
     background-color: red;
 }
 
-li.dropdown {
+.Nav-bar li.dropdown {
     display: inline-block;
 }
 
-.dropdown-content {
+.Nav-bar .dropdown-content {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
@@ -57,7 +60,7 @@ li.dropdown {
     z-index: 1;
 }
 
-.dropdown-content a {
+.Nav-bar .dropdown-content a {
     color: black;
     padding: 12px 16px;
     text-decoration: none;
@@ -65,39 +68,40 @@ li.dropdown {
     text-align: left;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+.Nav-bar .dropdown-content a:hover {background-color: #f1f1f1}
 
-.dropdown:hover .dropdown-content {
+.Nav-bar .dropdown:hover .dropdown-content {
     display: block;
 }
     
     
 .domestic {
-    top: 155px;
+    top: 167px;
     position: absolute;
+    background-color: gold;
 }
 
     
     
 .international {
-    top: 1155px;
+    top: 1167px;
     position: absolute;
+    background-color: gold;
 }
 
     
     
 .second_search {
-    height: 30px;
-    top: 2155px;
+    height: 40px;
+    top: 2167px;
     position: absolute;
-    background-color: black;
+    background-color: gold;
     width: 100%;
+    text-align: center;
 }
-
-    
     
 .footer {
-    top: 2185px;
+    top: 2207px;
     height: 120px;
     background-color: silver;
     width: 100%;
@@ -105,7 +109,7 @@ li.dropdown {
 }
 
 .footer p {
-    float: center;
+    text-align: center;
 }
 
 .footer ul {
@@ -122,3 +126,4 @@ li.dropdown {
     height: 125px;
     width: 10%;
 }
+
