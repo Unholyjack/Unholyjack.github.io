@@ -78,6 +78,7 @@ body {
 .domestic {
     top: 167px;
     position: absolute;
+    background-color: gold;
 }
 
     
@@ -85,12 +86,13 @@ body {
 .international {
     top: 1167px;
     position: absolute;
+    background-color: gold;
 }
 
     
     
 .second_search {
-    height: 30px;
+    height: 40px;
     top: 2167px;
     position: absolute;
     background-color: gold;
@@ -99,7 +101,7 @@ body {
 }
     
 .footer {
-    top: 2197px;
+    top: 2207px;
     height: 120px;
     background-color: silver;
     width: 100%;
