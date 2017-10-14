@@ -1,13 +1,13 @@
 body {
     overflow-y: scroll;
     overflow-x: hidden;
-    float: left;
+    left: 0px;
 }
 
 
 .heading {
     height: 120px;
-    top: 0;
+    top: 0px;
     position: absolute;
     background-color: white;
     width: 100%;
