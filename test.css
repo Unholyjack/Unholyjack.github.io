@@ -97,8 +97,8 @@ body {
 }
 
 .second_search p {
-    left: 50%;
-    padding: 0px 40px;
+    text-align: center;
+    padding: 20px 40px;
 }
     
 .footer {
@@ -110,11 +110,11 @@ body {
 }
 
 .footer p {
-    left: 75%;
+    text-align: center;
 }
 
 .footer ul {
-    left: 50%;
+    float: left;
 }
     
     
