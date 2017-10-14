@@ -20,6 +20,7 @@ body {
     position: absolute;
     background-color: gold;
     width: 100%;
+    text-align: center;
 }
 
 .Nav-bar ul {
