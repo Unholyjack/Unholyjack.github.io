@@ -5,7 +5,7 @@ body {
 
 
 .heading {
-    height: 122px;
+    height: 120px;
     top: 0;
     position: absolute;
     background-color: white;
@@ -15,7 +15,7 @@ body {
 
 .Nav-bar {
     height: 30px;
-    top: 122px;
+    top: 120px;
     position: absolute;
     background-color: gold;
     width: 100%;
