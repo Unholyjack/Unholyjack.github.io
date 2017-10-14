@@ -95,11 +95,7 @@ body {
     position: absolute;
     background-color: gold;
     width: 100%;
-}
-
-.second_search p {
     text-align: center;
-    padding: 20px 40px;
 }
     
 .footer {
